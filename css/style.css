@@ -64,7 +64,9 @@ img{
     border-color: #7E9F19;
     border-style: dashed;
 }
-
+.rodapezinho{
+    text-align: end;
+}
 .drone{
     background-color: #ffffff;
     text-align: justify;
