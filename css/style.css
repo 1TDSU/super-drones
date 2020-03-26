@@ -3,5 +3,9 @@ body{
   font-family:  Calibri,Tahoma, Arial,sans-serif;
   line-height: 22px;
   font-size: 16px;
+}
 
+h1{
+  color: #FFFFFF;
+  font-size: 50px;
 }
