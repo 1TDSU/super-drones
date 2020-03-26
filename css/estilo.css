@@ -1,0 +1,77 @@
+body{
+    background-image: url("../img/fundo.jpg");
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 22px;
+    font-size: 16pt;
+}
+
+h1{
+    color: white;
+    font-size: 40pt;
+}
+
+#container{
+    width: 1200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#template-drone{
+    background-color: white;
+    text-align: justify;
+    border: 1px solid #CCCCCC;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+h2{
+    margin: 0px;
+    border-bottom:1px dashed #7E9F19;
+}
+
+#links{
+    padding: 0px;
+    text-align: right;
+    border-bottom:1px dashed #7E9F19;;
+}
+
+a{
+    color: #2C88A7;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(24, 80, 99);
+}
+
+img{
+    width: 120px;
+    height: 150px;
+    border: 1px solid #7E9F19;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding: 2px;
+}
+
+#div-rodape1{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+
+}
+
+footer#rodape{
+    clear: both;/*LIMPA A CONFIGURAÇÃO DOS DOIS LADOS*/
+    border-top: 1px solid grey;   
+  }
+
+  footer#rodape p{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none; 
+  }
