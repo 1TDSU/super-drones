@@ -1,0 +1,24 @@
+body{
+  background-color: #000000;
+  font-family: calibri,tahoma,aria;
+  font-size: 16px;
+  line-height: 22px;
+}
+h1{
+  color:#FFFFFF;
+}
+#container{
+  height: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#drone-view{
+  background-color: #FFFFFF;
+  text-align: justify;
+  border: 1px;
+  border-style: solid;
+  color:#CCCCCC;
+
+}
