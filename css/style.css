@@ -1,0 +1,68 @@
+body{
+    background-color: #000000;
+    font-family: "Calibri", Tahoma, Arial;
+    font-size: 16px;
+    line-height: 22px;
+    background-image: url("../img/fundo.jpg");
+}
+
+h1{
+  color: #FFFFFF;
+  font-size: 50px
+}
+
+#container{
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#homepage-drone1{
+  background-color: #FFFFFF;
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+#homepage-drone2{
+  background-color: #FFFFFF;
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+#homepage-drone3{
+  background-color: #FFFFFF;
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+h2{
+  margin: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+a{
+  color: #2C88A7;
+  font-weight: 900px;
+}
+
+img{
+
+
+
+}
