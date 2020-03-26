@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: "Calibri", "Tahoma", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 50px;
+    margin:1200px;
+}
+
+.tudo{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
