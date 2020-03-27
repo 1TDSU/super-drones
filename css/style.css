@@ -1,0 +1,27 @@
+
+#background{
+  background-image: url("../img/fundo.jpg");
+  font-family: "calibri","tahoma", "arial";
+  height: 22px;
+  font-size: 16px;
+}
+#id1{
+  color: #ffffff;
+  font-size: 50px;
+}
+#container{
+  width: 1500px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: auto;
+}
+.drones{
+  background-color: #ffffff;
+  text-align: justify;
+  border-width: 1px;
+  border-style: solid;
+  border-color:#CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+
+}
