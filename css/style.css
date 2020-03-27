@@ -13,7 +13,8 @@
   width: 1500px;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 .drones{
   background-color: #ffffff;
@@ -24,4 +25,50 @@
   margin-bottom: 20px;
   padding: 20px;
 
+}
+
+.subtitile{
+  margin: 0px;
+  border-bottom: 1px;
+  border-bottom-color: #7E9F19;
+  border-bottom-style: dashed;
+
+}
+
+.hl{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+  text-align: right;
+
+}
+
+.twitter{
+  border-bottom: 1px;
+  border-bottom-style: dashed;
+  border-bottom-color: #7E9F19;
+  text-align: right;
+
+}
+a:hover.hl {
+color: #DC143C;
+}
+.image{
+  width: 120px;
+  height: 150px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7E9F19;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding: 2px;
+  float: left;
+}
+
+#ultimo{
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
 }
