@@ -1,3 +1,45 @@
 body {
   background-image:url("../img/fundo.jpg");
+  font-family: Calibri;
+  line-height: 22px;
+  font-size: 16px;
 }
+
+h1 {
+  color: #FFFFFF;
+  font-size: 50px;
+}
+
+.conteudo {
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.drone {
+  background-color: #FFFFFF;
+  text-align: justify;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #cccccc;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+h2 {
+  margin: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+a {
+  color: #2C88A7;
+  font-weight: 900px;
+  text-decoration: none;
+}
+ 
+
+
