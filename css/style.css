@@ -1,5 +1,6 @@
 body {
   background-image:url("../img/fundo.jpg");
+  background: cover;
   font-family: Calibri;
   line-height: 22px;
   font-size: 16px;
@@ -10,12 +11,12 @@ h1 {
   font-size: 50px;
 }
 
-.conteudo {
+#container {
   width: 1200px;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
 }
 
 .drone {
@@ -45,6 +46,7 @@ a {
   border-bottom: 1px;
   border-style: dashed;
   border-color: #7E9F19;
+  text-align: right;
 }
 
 a:hover {
@@ -71,3 +73,6 @@ a:hover {
   text-align: center;
 }
  
+.fonte {
+  text-align: right;
+}
