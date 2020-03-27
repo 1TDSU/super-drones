@@ -13,27 +13,20 @@ h1 {
 
 #container {
   width: 1200px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
 }
 
 .drone {
   background-color: #FFFFFF;
   text-align: justify;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #cccccc;
+  border: 1px solid #ccc;
   margin-bottom: 20px;
   padding: 20px;
 }
 
 h2 {
   margin: 0px;
-  border-bottom: 1px;
-  border-style: dashed;
-  border-color: #7E9F19;
+  border: 1px dashed #7E9F19;
 }
 
 a {
@@ -43,9 +36,7 @@ a {
 }
 
 .twitter {
-  border-bottom: 1px;
-  border-style: dashed;
-  border-color: #7E9F19;
+  border-bottom: 1px dashed #7E9F19;
   text-align: right;
 }
 
@@ -56,13 +47,8 @@ a:hover {
 .imagem {
   width: 120px;
   height: 150px;
-  border: 1px;
-  border-style: solid;
-  border-color: #7E9F19;
-  margin-top: 10px;
-  margin-right: 10px;
-  margin-bottom: 0px;
-  margin-left: 0px;
+  border: 1px solid #7E9F19;
+  margin: 10px 10px 0 0;
   padding: 2px;
   float: left;
 }
