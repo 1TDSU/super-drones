@@ -1,0 +1,63 @@
+body {
+  background: url("../img/fundo.jpg") no-repeat center;
+  background-size: cover;
+  font-family: Calibri, Tahoma, Arial, sans-serif;
+  line-height: 22px;
+  font-size: 16px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 50px;
+}
+
+#container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.drone {
+  background: #fff;
+  text-align: justify;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+h2 {
+  margin: 0;
+  border-bottom: 1px dashed #7e9f19;
+}
+
+a {
+  color: #2c88a7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dc143c;
+}
+
+p.external {
+  text-align: right;
+}
+
+.social-twitter {
+  border-bottom: 1px dashed #7e9f19;
+}
+
+img {
+  width: 120px;
+  height: 150px;
+  border: 1px solid #7e9f19;
+  margin: 10px 10px 0 0;
+  padding: 2px;
+  float: left;
+}
+
+.footer {
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+}
