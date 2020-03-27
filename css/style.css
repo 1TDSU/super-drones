@@ -17,3 +17,13 @@ h1{
   margin-left: auto;
   margin-right: auto;
 }
+
+.drone{
+  background-color: #FFFFFF;
+  text-align: justify;
+  border: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
