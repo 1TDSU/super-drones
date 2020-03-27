@@ -18,6 +18,58 @@ h1 {
 }
 .drone-fundo{
   background-color: #FFFFFF;
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: justify;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+h2{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 1px;
+  border-bottom-style: dashed;
+  border-width: 1px;
+  border-color: #7E9F19;
+}
+a{
+  color: #2C88A7;
+  text-decoration: none;
+  text-align: right;
+}
+a:hover{
+  color: #DC143C;
+}
+p.link{
+  text-align: right;
+  border-bottom-style: dashed;
+  border-color: #7E9F19;
+  border-width: 1px;
+  padding-bottom: 27px;
+}
+p.link_font{
+  text-align: right;
+}
+p{
   margin-bottom: 10px;
+}
+img{
+  width: 120px;
+  height: 150px;
+  border-color: #7E9F19;
+  border-style: solid;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding: 2px;
+  float: left;
+}
+#footer{
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 12px;
 }
