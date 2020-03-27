@@ -7,6 +7,19 @@ body{
 h1{
   color:#FFFFFF;
 }
+h2{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-bottom: 1px;
+
+}
+a{
+  color:#2C88A7;
+  font-weight: 900;
+  text-align: right;
+}
 #container{
   height: 1200px;
   margin-top: 0px;
@@ -14,11 +27,12 @@ h1{
   margin-left: auto;
   margin-right: auto;
 }
-#drone-view{
+.drone-view{
   background-color: #FFFFFF;
   text-align: justify;
   border: 1px;
   border-style: solid;
   color:#CCCCCC;
-
+  margin-bottom: 20px;
+  padding: 20px;
 }
