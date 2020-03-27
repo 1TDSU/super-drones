@@ -40,6 +40,20 @@ a {
   font-weight: 900px;
   text-decoration: none;
 }
+
+.twitter {
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+a:hover {
+  color: #dc143c;
+}
+
+.imagem {
+  
+}
  
 
 
