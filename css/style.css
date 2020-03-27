@@ -1,11 +1,12 @@
 body{
   background-color: #000000;
-  font-family: calibri,tahoma,aria;
+  font-family: calibri,tahoma,arial;
   font-size: 16px;
   line-height: 22px;
 }
 h1{
   color:#FFFFFF;
+  font-size: 50px;
 }
 h2{
   margin-left: 0;
@@ -13,15 +14,19 @@ h2{
   margin-top: 0;
   margin-bottom: 0;
   border-bottom: 1px;
-
+  border-style: dashed;
+  border-color: #7E9F19;
 }
 a{
   color:#2C88A7;
   font-weight: 900;
-  text-align: right;
+  align: right;
+}
+a:hover{
+  color:#DC143C;
 }
 #container{
-  height: 1200px;
+  width: 1200px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: auto;
@@ -35,4 +40,24 @@ a{
   color:#CCCCCC;
   margin-bottom: 20px;
   padding: 20px;
+}
+.twitter{
+  border-bottom-style: dashed;
+  border-color: #7E9F19;
+}
+img{
+  height: 120px;
+  width: 150px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7E9F19;
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 2px;
+  float: left;
+}
+.exercicio{
+  font-size: 12px;
+  text-align: center;
+  color: #FFFFFF;
 }
