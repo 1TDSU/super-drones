@@ -83,6 +83,10 @@ a{
    align-self: right;
 }
 
+a:hover{
+    color: #DC143C;
+}
+
 .fonte{
     text-align: right;
 }
