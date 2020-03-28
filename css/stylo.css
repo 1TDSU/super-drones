@@ -18,6 +18,28 @@ margin-top: 0px;
 margin-bottom: 0px;
 margin-left: auto;
 margin-right: auto;
+}
+.div-drone{
+  background-color: #ffffff;
+  text-align: justify;
+  border: solid 1px #cccccc;
+  margin-bottom: 20px;
+}
 
+h2{
+  margin:0;
+  border: solid #7E9F19;
+  border-style: dashed;
+  border-bottom: 1px;
+
+}
+.div-drone a {
+text-decoration: none;
+  color: #2C88A7;
+  font-weight: 900;
+}
+
+.link-p{
+  margin-left: 77%;
 
 }
