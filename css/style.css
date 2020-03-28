@@ -1,12 +1,96 @@
 body{
+    
     background-color: black;
-    font-family: "Calibri", "Tahoma", Helvetica, sans-serif;
+    font-family: "Calibri", Tahoma, Helvetica, sans-serif;
     font-size: 16px;
-    line-height: 50px;
-    margin:1200px;
+    line-height: 22px;
+    
+
 }
 
-.tudo{
+h1{
+    
     font-size: 50px;
     color: rgb(255, 255, 255);
+    }
+
+
+.tudo{
+    
+    width: 1200px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+.conteiner{
+    
+    background-color: rgb(255, 255, 255);
+    border-style: solid ;
+    border-width: 1px;
+    border-color:#cccccc;
+    margin-bottom: 20px;
+    padding: 20px;
+    
+}
+
+.descrição{
+    
+    text-align: justify;
+    
+
+}
+
+h2{
+    
+    margin: 0px;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+
+    border-color: #7E9F19;
+
+}
+
+img{
+    
+    width: 120px;
+    height: 150px;
+
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: #7E9F19;
+
+    float: left;
+
+    
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+    padding: 2px;
+    
+}
+
+a{
+   color: #2c88a7; 
+   font-weight: 900;
+   text-decoration: none;
+   align-self: right;
+}
+
+.fonte{
+    text-align: right;
+}
+
+.twitter{
+
+    border-bottom-style: dashed;
+    border-width: 1px;
+    border-color: #7E9F19;
+    text-align: right;
 }
