@@ -23,8 +23,29 @@ h1 {
   text-align: justify;
   border-style: solid;
   border-color: #CCCCCC;
-  margin-bottom: 20px;
   padding: 20px;
+}
+.drone{
+  background-color: #FFFFFF;
+  margin-top: 0px;
+  text-align: justify;
+  border-style: solid;
+  border-color: #CCCCCC;
+  padding-bottom: 100px;
+}
+p.drone_txt{
+  margin-top: 135px;
+}
+#seta{
+  float: right;
+  width: 50px;
+  height: 50px;
+}
+img.drone_img{
+  width: 320px;
+  height: 350px;
+  border-style: none;
+  padding: 2px;
 }
 h2{
   margin-left: 0;
@@ -49,6 +70,9 @@ p.link{
   border-color: #7E9F19;
   border-width: 1px;
   padding-bottom: 27px;
+}
+#link{
+  text-align: right;
 }
 p.link_font{
   text-align: right;
