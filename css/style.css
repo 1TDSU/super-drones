@@ -1,6 +1,6 @@
 body{
   background-image:url(../img/fundo.jpg);
-  font-family:  Calibri,Tahoma, Arial,sans-serif;
+  font-family:  'Calibri','Tahoma', 'Arial',sans-serif;
   line-height: 22px;
   font-size: 16px;
 }
@@ -35,18 +35,18 @@ h2{
   border-bottom-color: #7E9F19;
 }
 
-a{
-  text-decoration: none;
-}
-
-a:hover{
-  color: #DC143C;
-}
-
 .links{
+  text-align: right;
+}
+
+.links a{
+  text-decoration: none;
   color: #2C88A7;
   font-weight: 900;
-  text-align: right;
+}
+
+.links a:hover{
+  color: #DC143C;
 }
 
 .fim{
