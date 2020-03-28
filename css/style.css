@@ -19,3 +19,52 @@ h1{
   margin-right: auto;
   margin-left: auto;
 }
+
+.div-drone{
+  background-color: #ffffff;
+  text-align: justify;
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
+}
+
+h2{
+  margin:0;
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+}
+
+.div-drone a{
+  text-decoration: none;
+  color: #2C88A7;
+  font-weight: 900;
+}
+
+.link-p2{
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+  text-align: right;
+}
+.link-p1{
+  text-align: right;
+}
+
+a:HOVER{
+  color:#DC143C;
+}
+
+img{
+  width: 120px;
+  height: 150px;
+  border:solid 1px #7E9F19;
+  margin:10px 10px 0px 0px;
+  padding: 2px;
+  float: left;
+}
+
+#footer{
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+}
