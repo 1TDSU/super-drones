@@ -49,6 +49,7 @@ h1{
   padding: 20px;
 }
 
+
 h2{
   margin: 0px;
   border-bottom: 1px;
@@ -59,6 +60,7 @@ h2{
 a{
   color: #2C88A7;
   font-weight: 900px;
+  text-align: right;
 }
 
 img{
