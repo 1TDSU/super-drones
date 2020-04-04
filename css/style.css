@@ -1,4 +1,100 @@
+body{
+  background-color: black;
+  font-family: "calibri";
+  font-size: 16px;
+  line-height: 22px
+}
 
-#container{
-  background-color:#00000
+h1{
+  color: #FFFFFF;
+  font-size: 50px
+
+}
+
+h2{
+  margin: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+.drone1{
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  text-align: justify;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.drone2{
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  text-align: justify;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.drone3{
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  text-align: justify;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+a{
+  color: #2C88A7;
+  font-weight: 900;
+  width: auto;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+a:link, a:visited {
+	text-decoration: none
+	}
+a:hover {
+	text-decoration: underline;
+	color: #DC143C;
+	}
+a:active {
+	text-decoration: none
+	}
+
+img{
+  max-width:120px;
+  max-height:150px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7E9F19;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding: 2px;
+  float: left;
+
+
 }
